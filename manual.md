@@ -12,3 +12,4 @@
 * git chechout branch_name - переключаеться на ветку с именем branch_name
 * git chechout -b branch_name - создаёт ветку с именем branch_name и переключаеться на неё 
 * git commit - фиксация изменений
+* git status - определение состояние файлов
