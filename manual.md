@@ -3,3 +3,4 @@
 * git init-инициализирует репозиторий
 * git merge < branch> - слияние веток
 * git diff - просмотр изменённых файлов
+* git log - история commitov
